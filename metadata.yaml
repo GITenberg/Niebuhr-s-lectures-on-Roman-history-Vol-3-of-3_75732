@@ -1,0 +1,57 @@
+_repo: Niebuhr-s-lectures-on-Roman-history-Vol-3-of-3_75732
+_version: 0.0.1
+contributor:
+  other_contributor:
+    agent_name: Isler, M. (Meyer)
+    alias: Isler, Meyer
+    birthdate: 1807
+    deathdate: 1888
+    gutenberg_agent_id: '56200'
+    url: http://www.gutenberg.org/2009/agents/56200
+    wikipedia: https://de.wikipedia.org/wiki/Meyer_Isler
+  translators:
+  - agent_name: Chepmell, Havilland Le Mesurier
+    alias: Chepmell, H. M.‏
+    birthdate: 1811
+    deathdate: 1887
+    gutenberg_agent_id: '56196'
+    url: http://www.gutenberg.org/2009/agents/56196
+  - agent_name: Demmler, Franz
+    aliases:
+    - Demmler, Frank C. F.
+    - Demmler, Franz K. F.
+    - Demmler, F. C. F.
+    - Demmler, F. K. F.
+    gutenberg_agent_id: '56197'
+    url: http://www.gutenberg.org/2009/agents/56197
+creator:
+  author:
+    agent_name: Niebuhr, Barthold Georg
+    alias: Niebuhrius, B. G. (Barthold Georg)
+    birthdate: 1776
+    deathdate: 1831
+    gutenberg_agent_id: '56195'
+    url: http://www.gutenberg.org/2009/agents/56195
+    wikipedia: https://en.wikipedia.org/wiki/Barthold_Georg_Niebuhr
+description: ''
+gutenberg_issued: '2025-03-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75732'
+language: en
+pgterms:marc904: https://archive.org/details/niebuhrslecture00islegoog/page/n10/mode/2up
+pgterms:marc905: 20201122033442niebuhr
+pgterms:marc906: '1875'
+pgterms:marc907: GB
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aLondon :$bChatto & Windus, Piccadilly, $c1875.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rome -- History'
+- !lcc 'DG'
+- GITenberg
+title: Niebuhr's lectures on Roman history, Vol. 3 (of 3)
+url: http://www.gutenberg.org/ebooks/75732
