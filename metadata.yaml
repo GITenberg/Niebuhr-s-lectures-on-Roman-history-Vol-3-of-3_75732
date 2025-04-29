@@ -24,6 +24,9 @@ contributor:
     - Demmler, F. K. F.
     gutenberg_agent_id: '56197'
     url: http://www.gutenberg.org/2009/agents/56197
+covers:
+- cover_type: archival
+  image_path: 75732-h/images/cover.jpg
 creator:
   author:
     agent_name: Niebuhr, Barthold Georg
@@ -34,6 +37,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/56195
     wikipedia: https://en.wikipedia.org/wiki/Barthold_Georg_Niebuhr
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75732#Niebuhr-s-lectures-on-Roman-history-Vol-3-of-3
 gutenberg_issued: '2025-03-27'
 gutenberg_type: Text
 identifiers:
